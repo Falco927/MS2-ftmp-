@@ -1,45 +1,82 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# MEMORY GAME 
+  
 
-Welcome USER_NAME,
+# Memory Game audience   
+ ##  User stories  
+     
+     * First time users 
+     
+     For the first time users goal it will be to maximize the number of users by offering the best
+     experience to the target audience and engagement-ability of the memory game in a way
+     users will continue to play and maintain interest and motivation to get to the next-level of
+     the game and make them want to come and play again.
+     The Memory-game might keep users maintain goal oriented behaviors, emotional
+     attachment to the game and make them achieve the desired goal which is to score more
+     points and win the game.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+     * Returning users 
 
-## Gitpod Reminders
+     It is very clear the usability of the game is very important goal and one of the most important
+     goals to be achieved, we want users to consistently use the memory game during their
+     travel, disoccupied time or even spare time but at same time to stimulate the use of the brain
+     and to keep them entertained while having fun. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+     * Frequent users 
+     
+     For our frequent user goals is to make them feel the first time experience once more even
+     after users have been playing for some considerable time they will always come back and
+     discover new ways of having fun like their first time but also refer to the fruit land memory
+     game to other new users and keep the memory game cycle.
+    
+     
 
-`python3 -m http.server`
+## Design choices 
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+## Wireframes 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-## Updates Since The Instructional Video
+# Features 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+# Technologies Used 
+## Languages used
+   I have used HTML and CSS language to build this project. 
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## Frameworks 
+ ## 1.Git hub
+    It was used to store all the data from the coding. 
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+ ## 2.Balsamiq 
+    Used to create all the wireframes for the memory game.  
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+ # Testing 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+ # Deployment 
+ ## GitHub pages 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
---------
 
-Happy coding!
+ # Credits 
+
+ ## Code  
+
+
+
+ ## Content 
+  * The 
+
+
+
+ ## Media 
+    
+
+
+ ## Acknowledgements  
+  * Thank you to my mentor advice and support. 
+  * Thank you to the tutor's at code institute for the support and feedback.   
+       
