@@ -7,7 +7,7 @@
 body {
   height: 100vh;
   display: flex;
-  background: #E0FFFF;
+  background-color: #E0FFFF;
 }
 
 .memory-game {
@@ -46,6 +46,3 @@ body {
   background: #9400D3;
 } 
 
-a link:home-html { 
-    background-color: #E0FFFF;
-}
