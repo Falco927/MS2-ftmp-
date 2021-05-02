@@ -1,11 +1,11 @@
 # MEMORY GAME 
   
 
-# Memory Game audience   
+## Memory Game audience   
  ##  User stories  
      
      * First time users 
-     
+      
      For the first time users goal it will be to maximize the number of users by offering the best
      experience to the target audience and engagement-ability of the memory game in a way
      users will continue to play and maintain interest and motivation to get to the next-level of
