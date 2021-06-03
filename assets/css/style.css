@@ -43,5 +43,9 @@ body {
   position: absolute;
   border-radius: 5px;
   background: #9400D3;
+  backface-visibility: hidden;
 } 
 
+.front-face {
+  transform: rotateY(180deg);
+}
