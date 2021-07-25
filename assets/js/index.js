@@ -5,6 +5,7 @@ let lockBoard = false;
 let firstCard,secondCard;
 
 function flipCard() {
+  console.log("CARD CLICKED")
   if (lockBoard) return;
   if (this === firstCard) return;
 
@@ -61,3 +62,5 @@ function resetBoard() {
 })();
 
 cards.forEach(card => card.addEventListener('click', flipCard));
+
+  
