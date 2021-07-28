@@ -11,7 +11,7 @@ continue until they fail to match two cards , basically the objetive of the game
 For my main Project goal/ User goal...   
 
 This is not a new concept but it helped me to understand how to create something 
-interesting and funny for any ages applying... 
+interesting and funny for any ages and apply some of the learned.    
 In this Project I tried to implement some of the learned technologies  and I used to  
 develop this game concept.  
 
@@ -19,7 +19,12 @@ develop this game concept.
 # Index 
 
 # Memory Game (UX)   
- ##  User stories  
+ ##  User stories 
+
+__Project Goals__ 
+
+The Main Purpose of this Project was to create a memory game with cards by using some technologies such HTML,CSS and Javascript. This macthing game is mostly for families with adults and children interested in develop and improve cognitive skills,focus,enhance brain functions,train for visual memory and have fun while enjoy the game together.    
+
      
 __First time users__ 
       
@@ -49,6 +54,7 @@ For our frequent user goals is to make them feel the first time experience once 
 
 # Features 
 
+
 # Technologies Used 
 ## Languages used
    I have used HTML and CSS language to build this project. 
@@ -56,10 +62,10 @@ For our frequent user goals is to make them feel the first time experience once 
 
 ## Frameworks 
  ## 1.Git hub
-    It was used to store all the data from the coding. 
+   It was used to store all the data from the coding. 
 
  ## 2.Balsamiq 
-    Used to create all the wireframes for the memory game.  
+   Used to create all the wireframes for the memory game.  
 
  # Testing 
 
@@ -76,7 +82,7 @@ For our frequent user goals is to make them feel the first time experience once 
 
 
  ## Content 
-  * The 
+    The 
 
 
 
@@ -86,5 +92,5 @@ For our frequent user goals is to make them feel the first time experience once 
 
  ## Acknowledgements  
   * Thank you to my mentor advice and support. 
-  * Thank you to the tutor's at code institute for the support and feedback.   
+  * Thank you to the tutor's at code institute for the continuous support and feedback.   
        
