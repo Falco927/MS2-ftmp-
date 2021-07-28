@@ -1,20 +1,23 @@
 # MEMORY GAME 
 
-### This Memory game was created for Milestone 2 Interactive Frontend Development, with 
-### aim of offering a fun-filled and worthwhile activity for both children and adults.
-### The main reason I created this idea it was to allow users to socialize and having fun ### while developing important cognitive skills.  
-### A Very simple game to play with 12 cards in which the users have to turn over a pair 
-### of matching cards. If a player suceeds in matching a pair, they have another turn and
-### continue until they fail to match two cards , basically the objetive of the game is to ### find the most matches.  
-###  
-### For my main Project goal/ User goal...   
-###
-###
-###
-### This is not a new concept but it helped me to understand how to create something ###interesting and funny for any ages applying... 
+#### This Memory game was created for Milestone 2 Interactive Frontend Development, with 
+#### aim of offering a fun-filled and worthwhile activity for both children and adults.
+#### The main reason I created this idea it was to allow users to socialize and having fun 
+### while developing important cognitive skills.  
+#### A Very simple game to play with 12 cards in which the users have to turn over a pair 
+#### of matching cards. If a player suceeds in matching a pair, they have another turn and
+#### continue until they fail to match two cards , basically the objetive of the game is to ### find the most matches.  
+## 
+#### For my main Project goal/ User goal...   
+##
+##
+##
+#### This is not a new concept but it helped me to understand how to create something 
+#### interesting and funny for any ages applying... 
 ### 
-### In this Project I tried to implement some of the technologies learned and I used to  ### develop this interactive concept.  
-### 
+#### In this Project I tried to implement some of the learned technologies  and I used to  
+### develop this game concept.  
+#### 
 
 
 
