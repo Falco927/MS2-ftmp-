@@ -87,7 +87,7 @@ For our frequent user goals is to make them feel the first time experience once 
 
 
  ## Media 
-  Most of the animation images used in this project were based in [youtube tutorial] (https://www.youtube.com/watch?v=sId4aKhogac&list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw&index=4) 
+  Most of the animation images used in this project were based in: [youtube tutorial](https://www.youtube.com/watch?v=sId4aKhogac&list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw&index=4) 
     
 
 
