@@ -11,9 +11,9 @@ continue until they fail to match two cards , basically the objetive of the game
 For my main Project goal/ User goal...   
 
 This is not a new concept but it helped me to understand how to create something 
-interesting and funny for any ages and apply some of the learned.    
-In this Project I tried to implement some of the learned technologies  and I used to  
-develop this game concept.  
+interesting and funny for any ages and apply some of the learned techonologies.    
+In this Project I tried to implement most of the learned concepts and I used to  
+develop this game concept.   
 
 
 # Index 
@@ -23,7 +23,7 @@ develop this game concept.
 
 __Project Goals__ 
 
-The Main Purpose of this Project was to create a memory game with cards by using some technologies such HTML,CSS and Javascript. This macthing game is mostly for families with adults and children interested in develop and improve cognitive skills,focus,enhance brain functions,train for visual memory and have fun while enjoy the game together.    
+The Main Purpose of this Project was to create a memory game with cards by using some of the learned technologies such HTML,CSS and Javascript. This macthing game is mostly for families with adults and children interested in develop and improve cognitive skills,focus,enhance brain functions,train for visual memory and have fun while enjoy the game together.    
 
      
 __First time users__ 
@@ -57,15 +57,15 @@ For our frequent user goals is to make them feel the first time experience once 
 
 # Technologies Used 
 ## Languages used
-   I have used HTML and CSS language to build this project. 
+   I have used mostly HTML/CSS and Javascript language to build this project. 
 
 
 ## Frameworks 
  ## 1.Git hub
-   It was used to store all the data from the coding. 
+  It was used to store all the data from the coding. 
 
  ## 2.Balsamiq 
-   Used to create all the wireframes for the memory game.  
+  Used to create all the wireframes for the memory game.  
 
  # Testing 
 
@@ -78,15 +78,16 @@ For our frequent user goals is to make them feel the first time experience once 
  # Credits 
 
  ## Code  
-
+  Most of the code was based of the youtube tutorial and w3schools educational page but modified and adjusted to my project needs.  
 
 
  ## Content 
-   The 
+  All the text content written for the Home page/Help menu was created by the developer.   
 
 
 
  ## Media 
+  Most of the animation images used in this project were based in [youtube tutorial] (https://www.youtube.com/watch?v=sId4aKhogac&list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw&index=4) 
     
 
 
