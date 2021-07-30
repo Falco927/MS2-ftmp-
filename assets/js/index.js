@@ -6,28 +6,37 @@ let firstCard, secondCard;
 
 function flipCard() {
   console.log("CARD CLICKED");
+  console.log("lockboard is: " + lockBoard);
   if (lockBoard) return;
+  
+  console.log("card dataset: " + this.dataset.number)
   if (this === firstCard) return;
-
+  
   this.classList.add("flip");
 
   if (!hasFlippedCard) {
     // first click
     hasFlippedCard = true;
     firstCard = this;
+    firstCardNumber = this.dataset.number;
+
+    console.log("first card is now: " + firstCard)
 
     return;
   }
 
   // second click
   secondCard = this;
+  secondCardNumber = this.dataset.number;
+  console.log("second card is now: " + secondCard)
 
-  checkForMatch();
+  checkForMatch(firstCardNumber, secondCardNumber);
 }
 
-function checkForMatch() {
-  let isMatch = firstCard.dataset.framework === secondCard.dataset.framework;
-
+function checkForMatch(cardOne, cardTwo) {
+  let isMatch = cardOne === cardTwo;
+  console.log("do cards match is: " + isMatch)
+ 
   isMatch ? disableCards() : unflipCards();
 }
 

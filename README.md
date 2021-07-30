@@ -88,19 +88,21 @@ For our frequent user goals is to make them feel the first time experience once 
  The project was deployed to GitHub pages. 
 
  ## 1. 
-      Login to GitHub and locate the GitHub repository. 
+  Login to GitHub and locate the GitHub repository. 
  ## 2. 
-      At the top of the repository locate the settings button menu. 
+  At the top of the repository locate the settings button menu. 
  ## 3. 
-      Scroll down the Settings page until you locate the GitHub pages section.
+ Scroll down the Settings page until you locate the GitHub pages section.
  ## 4.              
-      Under "source", click the dropdown called "None" and select Master Branch. 
+ Under "source", click the dropdown called "None" and select Master Branch. 
  ## 5. 
-      The page will automatically refresh.
+ The page will automatically refresh.
  ## 6            
-      Scroll back through the page to locate the publish link in GitHub pages section.
+ Scroll back through the page to locate the publish link in GitHub pages section.
 
- # Forking the GitHub repository   
+ # Forking the GitHub repository  
+
+ * 1 Log in to GitHub  
 
  # Credits 
 
