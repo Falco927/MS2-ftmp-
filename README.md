@@ -71,6 +71,9 @@ For our frequent user goals is to make them feel the first time experience once 
   Used to create all the wireframes for the memory game.  
 
  # Testing 
+ 
+ * [W3C Markup Validator](https://validator.w3.org/)
+ * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 
  # Deployment 
@@ -83,8 +86,9 @@ For our frequent user goals is to make them feel the first time experience once 
  ## Code  
   Most of the code was based of the youtube tutorial and w3schools educational page but modified and adjusted to my project needs. 
 
-  * [w3schools](https://www.w3schools.com/howto/howto_css_flip_card.asp) 
-  * [w3schools](https://www.w3schools.com/howto/howto_js_add_class.asp)
+  * [w3schools](https://www.w3schools.com/howto/howto_css_flip_card.asp) How to flip a card. 
+  * [w3schools](https://www.w3schools.com/howto/howto_js_add_class.asp) How to add a class to Javascript.  
+  * [w3schools](https://www.w3schools.com/howto/howto_js_toggle_class.asp) How to toggle a class. 
   
   * [Memory game tutorial](https://www.youtube.com/watch?v=sId4aKhogac&list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw&index=4)
 
@@ -95,7 +99,6 @@ For our frequent user goals is to make them feel the first time experience once 
  ## Media 
   Most of the animation images used in this project were based on Memory game : [youtube tutorial](https://www.youtube.com/watch?v=sId4aKhogac&list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw&index=4) 
     
-
 
  ## Acknowledgements  
   * Thank you to my mentor advice and support. 
