@@ -28,14 +28,14 @@ The Main Purpose of this Project was to create a memory game with cards by using
      
 __First time users__ 
       
-For the first time users goal it will be to maximize the number of users by offering the best experience to the target audience and engagement-ability of the memory game in a way users will continue to play and maintain interest and motivation to get to the next-level of the game and make them want to come and play again.
-The Memory-game might keep users maintain goal oriented behaviors, emotional
+For the first time users goal, it will be to maximize the number of users by offering the best experience to the target audience and engagement-ability of the memory game in a way users will continue to play and maintain interest and motivation to get to the next level of the game and make them want to come and play again.
+The Memory-game might keep users maintain goal-oriented behaviors, emotional
 attachment to the game and make them achieve the desired goal which is to score more
 points and win the game.
 
 __Returning users__ 
 
-It is very clear the usability of the game is very important goal and one of the most important goals to be achieved, we want users to consistently use the memory game during their travel, disoccupied time or even spare time but at same time to stimulate the use of the brain and to keep them entertained while having fun. 
+It is very clear the usability of the game is a very important goal and one of the most important goals to be achieved, we want users to consistently use the memory game during their travel,  or even spare time but at the same time to stimulate the use of the brain and to keep them entertained while having fun.
 
 __Frequent users__ 
      
@@ -50,9 +50,12 @@ For our frequent user goals is to make them feel the first time experience once 
 
 
 ## Wireframes 
+* Home page - [View]()
+* Help Menu - [View]() 
 
 
 # Features 
+* Some Javascript interactive functionalities.
 
 
 # Technologies Used 
@@ -63,18 +66,21 @@ For our frequent user goals is to make them feel the first time experience once 
   * [Javascript](https://en.wikipedia.org/wiki/JavaScript)
 
 
-## Frameworks 
+# Frameworks 
  ## 1.Git hub
   It was used to store all the data from the coding. 
 
  ## 2.Balsamiq 
-  Used to create all the wireframes for the memory game.  
+  Used to create all the wireframes for the memory game. 
+ ## 3.Grammarly 
+  Used to spell check text content.   
 
  # Testing 
  
- * [W3C Markup Validator](https://validator.w3.org/)
- * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+ * [W3C Markup Validator](https://validator.w3.org/) - [Results]()
+ * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results]()
 
+ ## Testing user stories  
 
  # Deployment 
  ## GitHub pages 
@@ -84,7 +90,7 @@ For our frequent user goals is to make them feel the first time experience once 
  # Credits 
 
  ## Code  
-  Most of the code was based of the youtube tutorial and w3schools educational page but modified and adjusted to my project needs. 
+  Most of the code was based on the youtube tutorial and w3schools educational page but modified and adjusted to my project needs. 
 
   * [w3schools](https://www.w3schools.com/howto/howto_css_flip_card.asp) How to flip a card. 
   * [w3schools](https://www.w3schools.com/howto/howto_js_add_class.asp) How to add a class to Javascript.  
@@ -93,7 +99,7 @@ For our frequent user goals is to make them feel the first time experience once 
   * [Memory game tutorial](https://www.youtube.com/watch?v=sId4aKhogac&list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw&index=4)
 
  ## Content 
-  All the text content written for the Home page/Help menu was created by the developer.   
+  All the text content written for the Home Page/Help Menu was created by the developer.   
 
 
  ## Media 
@@ -101,6 +107,6 @@ For our frequent user goals is to make them feel the first time experience once 
     
 
  ## Acknowledgements  
-  * Thank you to my mentor advice and support. 
-  * Thank you to the tutor's at code institute for the continuous support and feedback.   
+  * Thank you for my mentor's advice and support. 
+  * Thank you to the tutors at code institute for the continuous support and feedback.   
        
