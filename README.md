@@ -57,10 +57,10 @@ For our frequent user goals is to make them feel the first time experience once 
 
 # Technologies Used 
 ## Languages used
-   I have used mostly HTML/CSS and Javascript language to build this project.
-   [HTML5](https://en.wikipedia.org/wiki/HTML5) 
-   [CSS](https://en.wikipedia.org/wiki/CSS) 
-   [Javascript](https://en.wikipedia.org/wiki/JavaScript)
+  I have used mostly HTML/CSS and Javascript language to build this project.
+  * [HTML5](https://en.wikipedia.org/wiki/HTML5) 
+  * [CSS](https://en.wikipedia.org/wiki/CSS) 
+  * [Javascript](https://en.wikipedia.org/wiki/JavaScript)
 
 
 ## Frameworks 
@@ -83,10 +83,10 @@ For our frequent user goals is to make them feel the first time experience once 
  ## Code  
   Most of the code was based of the youtube tutorial and w3schools educational page but modified and adjusted to my project needs. 
 
-  [w3schools] (https://www.w3schools.com/howto/howto_css_flip_card.asp) 
-  [w3schools] (https://www.w3schools.com/howto/howto_js_add_class.asp)
+  * [w3schools](https://www.w3schools.com/howto/howto_css_flip_card.asp) 
+  * [w3schools](https://www.w3schools.com/howto/howto_js_add_class.asp)
   
-  [Memory game tutorial](https://www.youtube.com/watch?v=sId4aKhogac&list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw&index=4)
+  * [Memory game tutorial](https://www.youtube.com/watch?v=sId4aKhogac&list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw&index=4)
 
  ## Content 
   All the text content written for the Home page/Help menu was created by the developer.   
