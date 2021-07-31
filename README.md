@@ -6,13 +6,9 @@ The main reason I developed this idea it was to allow users to socialize and hav
 while developing important cognitive skills.  
 A Very simple game to play with 12 cards in which the users have to turn over a pair 
 of matching cards. If a player suceeds in matching a pair, they have another turn and
-continue until they fail to match two cards , basically the objetive of the game is to find the most matches.  
-  
-For my main Project goal/ User goal...   
-
-This is not a new concept but it helped me to understand how to create something 
-interesting and funny for any ages and apply some of the learned techonologies.    
-In this Project I tried to implement most of the learned concepts and I used to  
+continue until they fail to match two cards , basically the objetive of the game is to find the most matches.   
+This is not a new concept but it helped me to understand how to create something interesting and funny for any age and apply some of the learned technologies.    
+In this Project, I tried to implement most of the learned concepts and I used them to  
 develop this game concept.   
 
 
@@ -45,7 +41,7 @@ For our frequent user goals is to make them feel the first time experience once 
 
 ## Design choices 
 * Colour Scheme 
-    Three main colours for the memory game Yellow, white and Purple. 
+  Three main colours for the memory game Yellow, white and Purple. 
 
 
 ## Wireframes 
@@ -79,6 +75,9 @@ For our frequent user goals is to make them feel the first time experience once 
  * [W3C Markup Validator](https://validator.w3.org/) - [Results]()
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results]()
 
+ # Known Bugs 
+ * Cards not flipping properly and click event are not very clear. 
+
  ## Testing user stories  
 
  # Deployment 
@@ -96,21 +95,21 @@ For our frequent user goals is to make them feel the first time experience once 
   Under "source", click the dropdown called "None" and select Master Branch. 
  ## 5. 
   The page will automatically refresh.
- ## 6            
+ ## 6.            
   Scroll back through the page to locate the publish link in GitHub pages section.
- *(Based on the code institute README file.)
+ * (Based on the code institute README file.)
 
  # Forking the GitHub repository  
 
  * 1 Log in to GitHub  
  * 2 At top of the repository just above the "settings" Button on the menu, locate the "Fork" Button.
  * You should now have a copy of the original repository. 
- *(Based on the code institute README file.)   
+ * (Based on the code institute README file.)   
 
  # Credits 
 
  ## Code  
-  Most of the code used was from the youtube Memory game tutorial and w3schools educational page but modified and adjusted to my project needs. 
+ Most of the code used was from the youtube Memory game tutorial and w3schools educational page but modified and adjusted to my project needs. 
 
   * [w3schools](https://www.w3schools.com/howto/howto_css_flip_card.asp) How to flip a card. 
   * [w3schools](https://www.w3schools.com/howto/howto_js_add_class.asp) How to add a class to Javascript.  
@@ -119,16 +118,17 @@ For our frequent user goals is to make them feel the first time experience once 
   * [Memory game tutorial](https://www.youtube.com/watch?v=sId4aKhogac&list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw&index=4)
 
  ## Content 
-  All the text content written for the Home Page/Help Menu was created by the developer.   
+ All the text content written for the Home Page/Help Menu was created by the developer.   
 
 
  ## Media 
-  Most of the animation images used in this project were based on Memory game : [youtube tutorial](https://www.youtube.com/watch?v=sId4aKhogac&list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw&index=4) 
+ Most of the animation images used in this project were based on Memory game : [youtube tutorial](https://www.youtube.com/watch?v=sId4aKhogac&list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw&index=4) 
 
  ## Self-Evaluation 
-  I enjoyed the process of "building" the project but in some areas, it was hard for me  to tackle some challenges due to the lack of knowledge, especially Javascript, which I tried to implement some code and in end I found myself overcomplicating and creating unecessary issues. 
+ I enjoyed the process of "building" the project but in some areas, it was hard for me  to tackle some challenges due to the lack of knowledge, especially Javascript, which I tried to implement some code and in end I found myself overcomplicating and creating unecessary issues. 
 
- When I started this project all the cards were organized and aligned but as I was moving forward I tried to implement the horizontal flip and instead of finishing with desired  design and style I 
+ When I started this project all the cards were organized and aligned but as I was moving forward I tried to implement the horizontal flip and instead of finishing with desired  design and style I was unable to get back the initial design, but with all the challenges 
+ I believe I have learned a lot and had the chance to practice for future projects.
 
  ## Acknowledgements  
   * Thank you for my mentor's advice and support. 

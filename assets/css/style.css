@@ -64,7 +64,7 @@ body {
   height: 200px;  
 }
 
-
+/* code from Memory game tutorial: https://www.youtube.com/watch?v=sId4aKhogac&list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw&index=4 */
 .hide-card {
   background-color: transparent;
   width: 300px;
