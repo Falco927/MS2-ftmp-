@@ -45,6 +45,7 @@ For our frequent user goals is to make them feel the first time experience once 
 ## Wireframes 
 * Home page - [View]()
 * Help Menu - [View]() 
+(My wireframes available only in PDF)
 
 
 # Features 
@@ -73,10 +74,13 @@ For our frequent user goals is to make them feel the first time experience once 
  * [W3C Markup Validator](https://validator.w3.org/) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-plum-porpoise-5np2cyuj.ws-eu13.gitpod.io%2F)
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-plum-porpoise-5np2cyuj.ws-eu13.gitpod.io%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+ * W3C Markup Validator - Displaying 2 errors,(Unable to fix the problem by myself no tutor support available at this time). 
+
+ * W3C CSS Validator - First time tested it was displaying no errors, after trying second  time  it was saying page not found. 
+
  ## Known Bugs 
  * Cards not flipping properly and click event are not very clear. 
-
- ## Testing user stories  
+ * Lack of knowledge to solve flipping problem and click event "button".
 
  # Deployment 
  ## GitHub pages 
