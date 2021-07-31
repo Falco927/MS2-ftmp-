@@ -1,18 +1,16 @@
 # MEMORY GAME 
 
-This Memory game was created for Milestone 2 Interactive Frontend Development, with 
+This Memory game was created for Milestone 2 Interactive Frontend Development, with
 aim of offering a fun-filled and worthwhile activity for both children and adults.
-The main reason I developed this idea it was to allow users to socialize and having fun 
-while developing important cognitive skills.  
-A Very simple game to play with 12 cards in which the users have to turn over a pair 
+The main reason I developed this idea it was to allow users to socialize and having fun
+while developing important cognitive skills. 
+A Very simple game to play with 12 cards in which the users have to turn over a pair
 of matching cards. If a player suceeds in matching a pair, they have another turn and
-continue until they fail to match two cards , basically the objetive of the game is to find the most matches.   
-This is not a new concept but it helped me to understand how to create something interesting and funny for any age and apply some of the learned technologies.    
-In this Project, I tried to implement most of the learned concepts and I used them to  
-develop this game concept.   
+continue until they fail to match two cards , basically the objetive of the game is to find the most matches.  
+This is not a new concept but it helped me to understand how to create something interesting and funny for any age and apply some of the learned technologies.   
+In this Project, I tried to implement most of the learned concepts and I used them to 
+develop this game concept. 
 
-
-# Index 
 
 # Memory Game (UX)   
  ##  User stories 
@@ -72,10 +70,10 @@ For our frequent user goals is to make them feel the first time experience once 
 
  # Testing 
  
- * [W3C Markup Validator](https://validator.w3.org/) - [Results]()
- * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results]()
+ * [W3C Markup Validator](https://validator.w3.org/) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-plum-porpoise-5np2cyuj.ws-eu13.gitpod.io%2F)
+ * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-plum-porpoise-5np2cyuj.ws-eu13.gitpod.io%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
- # Known Bugs 
+ ## Known Bugs 
  * Cards not flipping properly and click event are not very clear. 
 
  ## Testing user stories  
