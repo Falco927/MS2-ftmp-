@@ -131,6 +131,7 @@ For our frequent user goals is to make them feel the first time experience once 
 
  When I started this project all the cards were organized and aligned but as I was moving forward I tried to implement the horizontal flip and instead of finishing with desired  design and style I was unable to get back the initial design, but with all the challenges 
  I believe I have learned a lot and had the chance to practice for future projects.
+ 
 
  ## Acknowledgements  
   * Thank you for my mentor's advice and support. 
