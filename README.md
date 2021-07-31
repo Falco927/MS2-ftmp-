@@ -92,22 +92,26 @@ For our frequent user goals is to make them feel the first time experience once 
  ## 2. 
   At the top of the repository locate the settings button menu. 
  ## 3. 
- Scroll down the Settings page until you locate the GitHub pages section.
+  Scroll down the Settings page until you locate the GitHub pages section.
  ## 4.              
- Under "source", click the dropdown called "None" and select Master Branch. 
+  Under "source", click the dropdown called "None" and select Master Branch. 
  ## 5. 
- The page will automatically refresh.
+  The page will automatically refresh.
  ## 6            
- Scroll back through the page to locate the publish link in GitHub pages section.
+  Scroll back through the page to locate the publish link in GitHub pages section.
+ *(Based on the code institute README file.)
 
  # Forking the GitHub repository  
 
  * 1 Log in to GitHub  
+ * 2 At top of the repository just above the "settings" Button on the menu, locate the "Fork" Button.
+ * You should now have a copy of the original repository. 
+ *(Based on the code institute README file.)   
 
  # Credits 
 
  ## Code  
-  Most of the code was based on the youtube tutorial and w3schools educational page but modified and adjusted to my project needs. 
+  Most of the code used was from the youtube Memory game tutorial and w3schools educational page but modified and adjusted to my project needs. 
 
   * [w3schools](https://www.w3schools.com/howto/howto_css_flip_card.asp) How to flip a card. 
   * [w3schools](https://www.w3schools.com/howto/howto_js_add_class.asp) How to add a class to Javascript.  
@@ -121,9 +125,15 @@ For our frequent user goals is to make them feel the first time experience once 
 
  ## Media 
   Most of the animation images used in this project were based on Memory game : [youtube tutorial](https://www.youtube.com/watch?v=sId4aKhogac&list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw&index=4) 
-    
+
+ ## Self-Evaluation 
+  I enjoyed the process of "building" the project but in some areas, it was hard for me  to tackle some challenges due to the lack of knowledge, especially Javascript, which I tried to implement some code and in end I found myself overcomplicating and creating unecessary issues. 
+
+  When I started this project all the cards were organised and aligned but as I was moving forward i tried to implement the horizontal flip and instead of finishing with desired  design and style I 
 
  ## Acknowledgements  
   * Thank you for my mentor's advice and support. 
-  * Thank you to the tutors at code institute for the continuous support and feedback.   
+  * Thank you to the tutors at code institute for the continuous support and feedback. 
+
+      
        
