@@ -44,9 +44,8 @@ For our frequent user goals is to make them feel the first time experience once 
      
 
 ## Design choices 
-
-
-
+* Colour Scheme 
+    Three main colours for the memory game Yellow, white and Purple. 
 
 
 ## Wireframes 
@@ -129,7 +128,7 @@ For our frequent user goals is to make them feel the first time experience once 
  ## Self-Evaluation 
   I enjoyed the process of "building" the project but in some areas, it was hard for me  to tackle some challenges due to the lack of knowledge, especially Javascript, which I tried to implement some code and in end I found myself overcomplicating and creating unecessary issues. 
 
-  When I started this project all the cards were organised and aligned but as I was moving forward i tried to implement the horizontal flip and instead of finishing with desired  design and style I 
+ When I started this project all the cards were organized and aligned but as I was moving forward I tried to implement the horizontal flip and instead of finishing with desired  design and style I 
 
  ## Acknowledgements  
   * Thank you for my mentor's advice and support. 
